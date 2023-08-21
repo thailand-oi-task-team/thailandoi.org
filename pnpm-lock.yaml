@@ -6,28 +6,28 @@ settings:
 
 dependencies:
   '@algolia/autocomplete-core':
-    specifier: ^1.11.0
+    specifier: 1.11.0
     version: 1.11.0(@algolia/client-search@4.19.1)(algoliasearch@4.19.1)(search-insights@2.7.0)
   '@headlessui/react':
-    specifier: ^1.7.17
+    specifier: 1.7.17
     version: 1.7.17(react-dom@18.2.0)(react@18.2.0)
   '@headlessui/tailwindcss':
-    specifier: ^0.2.0
+    specifier: 0.2.0
     version: 0.2.0(tailwindcss@3.3.3)
   '@mdx-js/loader':
-    specifier: ^2.3.0
+    specifier: 2.3.0
     version: 2.3.0(webpack@5.88.2)
   '@mdx-js/react':
-    specifier: ^2.3.0
+    specifier: 2.3.0
     version: 2.3.0(react@18.2.0)
   '@next/mdx':
     specifier: 13.4.19
     version: 13.4.19(@mdx-js/loader@2.3.0)(@mdx-js/react@2.3.0)
   '@sindresorhus/slugify':
-    specifier: ^2.2.1
+    specifier: 2.2.1
     version: 2.2.1
   '@tailwindcss/typography':
-    specifier: ^0.5.9
+    specifier: 0.5.9
     version: 0.5.9(tailwindcss@3.3.3)
   '@types/node':
     specifier: 20.5.1
@@ -39,37 +39,37 @@ dependencies:
     specifier: 18.2.7
     version: 18.2.7
   '@types/react-highlight-words':
-    specifier: ^0.16.4
+    specifier: 0.16.4
     version: 0.16.4
   acorn:
-    specifier: ^8.10.0
+    specifier: 8.10.0
     version: 8.10.0
   autoprefixer:
-    specifier: ^10.4.15
+    specifier: 10.4.15
     version: 10.4.15(postcss@8.4.28)
   clsx:
-    specifier: ^2.0.0
+    specifier: 2.0.0
     version: 2.0.0
   fast-glob:
-    specifier: ^3.3.1
+    specifier: 3.3.1
     version: 3.3.1
   flexsearch:
-    specifier: ^0.7.31
+    specifier: 0.7.31
     version: 0.7.31
   framer-motion:
     specifier: 10.16.1
     version: 10.16.1(react-dom@18.2.0)(react@18.2.0)
   mdast-util-to-string:
-    specifier: ^4.0.0
+    specifier: 4.0.0
     version: 4.0.0
   mdx-annotations:
-    specifier: ^0.1.3
+    specifier: 0.1.3
     version: 0.1.3
   next:
     specifier: 13.4.19
     version: 13.4.19(react-dom@18.2.0)(react@18.2.0)
   next-themes:
-    specifier: ^0.2.1
+    specifier: 0.2.1
     version: 0.2.1(next@13.4.19)(react-dom@18.2.0)(react@18.2.0)
   react:
     specifier: 18.2.0
@@ -78,37 +78,37 @@ dependencies:
     specifier: 18.2.0
     version: 18.2.0(react@18.2.0)
   react-highlight-words:
-    specifier: ^0.20.0
+    specifier: 0.20.0
     version: 0.20.0(react@18.2.0)
   remark:
-    specifier: ^14.0.3
+    specifier: 14.0.3
     version: 14.0.3
   remark-gfm:
-    specifier: ^3.0.1
+    specifier: 3.0.1
     version: 3.0.1
   remark-mdx:
-    specifier: ^2.3.0
+    specifier: 2.3.0
     version: 2.3.0
   shiki:
-    specifier: ^0.14.3
+    specifier: 0.14.3
     version: 0.14.3
   simple-functional-loader:
-    specifier: ^1.2.1
+    specifier: 1.2.1
     version: 1.2.1
   tailwindcss:
-    specifier: ^3.3.3
+    specifier: 3.3.3
     version: 3.3.3
   typescript:
     specifier: 5.1.6
     version: 5.1.6
   unist-util-filter:
-    specifier: ^5.0.0
+    specifier: 5.0.0
     version: 5.0.0
   unist-util-visit:
-    specifier: ^5.0.0
+    specifier: 5.0.0
     version: 5.0.0
   zustand:
-    specifier: ^4.4.1
+    specifier: 4.4.1
     version: 4.4.1(@types/react@18.2.20)(react@18.2.0)
 
 devDependencies:
@@ -119,13 +119,13 @@ devDependencies:
     specifier: 13.4.19
     version: 13.4.19(eslint@8.47.0)(typescript@5.1.6)
   prettier:
-    specifier: ^3.0.2
+    specifier: 3.0.2
     version: 3.0.2
   prettier-plugin-tailwindcss:
-    specifier: ^0.5.3
+    specifier: 0.5.3
     version: 0.5.3(prettier@3.0.2)
   sharp:
-    specifier: ^0.32.5
+    specifier: 0.32.5
     version: 0.32.5
 
 packages:
@@ -675,10 +675,6 @@ packages:
 
   /@types/ms@0.7.31:
     resolution: {integrity: sha512-iiUgKzV9AuaEkZqkOLDIvlQiL6ltuZd9tGcW3gwpnX8JbuiuhFlEGmmFXEXkN50Cvq7Os88IY2v0dkDqXYWVgA==}
-    dev: false
-
-  /@types/node@20.4.7:
-    resolution: {integrity: sha512-bUBrPjEry2QUTsnuEjzjbS7voGWCc30W0qzgMf90GPeDGFRakvrz47ju+oqDAKCXLUCe39u57/ORMl/O/04/9g==}
     dev: false
 
   /@types/node@20.5.1:
@@ -2478,7 +2474,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 20.4.7
+      '@types/node': 20.5.1
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: false
