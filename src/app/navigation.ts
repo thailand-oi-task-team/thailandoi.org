@@ -8,12 +8,13 @@ export interface NavGroup {
 
 export const navigation: Array<NavGroup> = [
   {
-    title: 'Guides',
-    links: [{ title: 'Introduction', href: '/' }],
+    title: 'Thailand OI',
+    links: [{ title: 'About', href: '/' }],
   },
   {
     title: 'Materials',
-    links: [{ title: 'Oct 65', href: '/materials/oct65' }],
+    links: [{ title: 'Oct 65', href: '/materials/oct65' },
+            { title: 'Oct 66', href: '/materials/oct66' }],
   },
   {
     title: 'Team Members',
