@@ -8,8 +8,8 @@ export interface NavGroup {
 
 export const navigation: Array<NavGroup> = [
   {
-    title: 'Guides',
-    links: [{ title: 'Introduction', href: '/' }],
+    title: 'Thailand OI',
+    links: [{ title: 'About', href: '/' }],
   },
   {
     title: 'Materials',
