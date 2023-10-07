@@ -13,7 +13,8 @@ export const navigation: Array<NavGroup> = [
   },
   {
     title: 'Materials',
-    links: [{ title: 'Oct 65', href: '/materials/oct65' }],
+    links: [{ title: 'Oct 65', href: '/materials/oct65' },
+            { title: 'Oct 66', href: '/materials/oct66' }],
   },
   {
     title: 'Team Members',
