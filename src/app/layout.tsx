@@ -7,6 +7,8 @@ import '@/styles/tailwind.css'
 import { type Metadata } from 'next'
 import { type Section } from '@/components/SectionProvider'
 
+import '@/styles/fonts.css'
+
 export const metadata: Metadata = {
   title: {
     template: '%s - Thailand OI',
